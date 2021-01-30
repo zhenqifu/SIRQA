@@ -1,7 +1,7 @@
 Stereoscopic Image Retargeting Quality Assessment
 =====================
 
-Matlab implementation of **GDIL** stereoscopic image retargeting quality assessment measurement
+Matlab implementation of **GDIL** stereoscopic image retargeting quality assessment measurement. IEEE TMM, 2020.
 
 The code has been tested on the Windows 10 64-bit OS. You can run [**main_GDIL.m**](main_GDIL.m) to obtain the results. 
 
